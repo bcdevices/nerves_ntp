@@ -1,6 +1,6 @@
 defmodule NervesNtpTest do
   use ExUnit.Case
-  doctest NervesNtp
+  doctest Nerves.Ntp
 
   test "the truth" do
     assert 1 + 1 == 2
